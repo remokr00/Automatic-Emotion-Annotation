@@ -38,7 +38,7 @@ Questo approccio, ispirato dal lavoro [E2MoCase: A Dataset for Emotional, Event 
 
 # WorkFlow Scheme
 
-![Project WorkFlow](percorso/immagine.png)
+![Project WorkFlow]("diagramma di flusso progetto.png")
 
 
 
